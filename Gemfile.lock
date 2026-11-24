@@ -11,7 +11,7 @@ GEM
     net-scp (1.1.2)
       net-ssh (>= 2.6.5)
     net-ssh (2.7.0)
-    rake (10.1.0)
+    rake (12.3.3)
     sshkit (1.2.0)
       net-scp (>= 1.1.2)
       net-ssh
